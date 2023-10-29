@@ -5,9 +5,43 @@
     "home_page_url": "https://gaymergirlgwen.github.io",
     "feed_url": "https://gaymergirlgwen.github.io/feed.json",
     "user_comment": "",
+    "icon": "https://gaymergirlgwen.github.io/media/website/Atlantean-Tech.png",
     "author": {
         "name": "AquaTech"
     },
     "items": [
+        {
+            "id": "https://gaymergirlgwen.github.io/chicken.html",
+            "url": "https://gaymergirlgwen.github.io/chicken.html",
+            "title": "Chicken",
+            "summary": "Chicken recipe",
+            "content_html": "<p>Chicken recipe</p>",
+            "author": {
+                "name": "AquaTech"
+            },
+            "tags": [
+                   "Meat",
+                   "Chicken"
+            ],
+            "date_published": "2023-10-29T22:46:08+02:00",
+            "date_modified": "2023-10-29T22:46:08+02:00"
+        },
+        {
+            "id": "https://gaymergirlgwen.github.io/meatless-balls.html",
+            "url": "https://gaymergirlgwen.github.io/meatless-balls.html",
+            "title": "Meatless balls",
+            "summary": "Recipe for vegan meatballs made with chickpeas",
+            "content_html": "<p>Recipe for vegan meatballs made with chickpeas</p>",
+            "author": {
+                "name": "AquaTech"
+            },
+            "tags": [
+                   "Vegetables",
+                   "Vegan",
+                   "Chickpeas"
+            ],
+            "date_published": "2023-10-29T22:45:15+02:00",
+            "date_modified": "2023-10-29T22:45:15+02:00"
+        }
     ]
 }
